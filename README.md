@@ -18,7 +18,7 @@ A web-based **Course Management System** designed for students and faculty to ac
 ## **📌 Installation & Setup**  
 1. Clone the repository:  
    ```sh
-   git clone https://github.com/SATYAVARDHAN04/Course-Delivery-System.git
+   git https://github.com/A-Naveen989/Course_Delivery_System.git
    cd Course-Delivery-System
    ```
 2. Install dependencies:  
